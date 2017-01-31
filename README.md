@@ -1,1 +1,7 @@
 # node-api
+```sql
+CREATE DATABASE node_api
+TEMPLATE TEMPLATE0
+ENCODING 'utf-8'
+CONNECTION LIMIT -1;
+```
